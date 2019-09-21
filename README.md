@@ -1,5 +1,6 @@
 # Python code for parsing XML files, this is a part of Bible Corpus Tools
-<!-- language: lang-none -->
+
+```{<!-- language: lang-none -->}
   /***
   *    ______._._....._........_____.............................._____..........._.....
   *    |.___.(_|.|...|.|....../..__.\............................|_..._|.........|.|....
@@ -10,7 +11,7 @@
   *    ........................................|.|......................................
   *    ........................................|_|......................................
   */
-
+```
 
 Author: **Mrinal Vashisth; mrinalmanu10@gmail.com**
 
@@ -24,6 +25,8 @@ For the sake of language processing CSV files are more informative and give outp
 
 [verse_id]  [text] [book] [name] [chapter] [verse_number]
 
-#________________________________________________________________________________________________________________
+
+```{<!-- language: lang-none -->}
 
 Next step is to take the CSV and optimize data to lose minimum information and get the text of New Testament (NT) up and ready for analysis.
+```
