@@ -18,6 +18,9 @@ Author: **Mrinal Vashisth; mrinalmanu10@gmail.com**
 This is a set of functions for processing text for language processing, from XML files in Open Bible Data mentioned in the paper **A massively parallel corpus: the Bible in 100 languages**, Christos Christodouloupoulos and Mark Steedman.
 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4551210/)
 
+Get data here: 
+**https://github.com/christos-c/bible-corpus**
+
 Description:
 
 **bcp.py** contains functions to convert XML files into text files or CSV files. For whatever purpose.
