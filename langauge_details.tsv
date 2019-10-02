@@ -1,0 +1,110 @@
+
+ISO 639-3	Language	Family	Genus	Subgenus	Speakers	Script	Parts
+acu	Achuar-Shiwiar	Jivaroan			5,000	Latin	New Testament
+afr	Afrikaans	Indo-European	Germanic	West	5,000,000	Latin	COMPLETE
+agr	Aguaruna	Jivaroan			38,300	Latin	New Testament
+ake	Akawaio	Carib	Northern	East-West Guiana	4,500	Latin	New Testament
+als	Albanian	Indo-European	Albanian	Tosk	3,000,000	Latin	COMPLETE
+amh	Amharic	Afro-Asiatic	Semitic	South	17,500,000	Ethiopic	COMPLETE
+amu	Amuzgo	Oto-Manguean	Amuzgoan		23,000	Latin	New Testament
+arb	Arabic	Afro-Asiatic	Semitic	Central	206,000,000	Arabic	COMPLETE
+hye	Armenian	Indo-European	Armenian		6,400,000	Armenian	Gen. Exod. Gosp.
+djk	Aukan	Creole	English based	Atlantic	15,500	Latin	New Testament
+bsn	Barasana-Eduria	Tucanoan	Eastern Tucanoan	Central	1,890	Latin	New Testament
+eus	Basque	Basque			700,000	Latin	New Testament
+bul	Bulgarian	Indo-European	Slavic	South	9,000,000	Cyrillic	COMPLETE
+cjp	Cabécar	Chibchan	Talamanca		8,840	Latin	New Testament
+cak	Cakchiquel	Mayan	Quichean	Greater Quichean	132,000	Latin	New Testament
+cni	Campa (Asháninka)	Arawakan	Maipuran	Southern Maipuran	26,100	Latin	New Testament
+kbh	Camsá	Equatorial (?)			4,770	Latin	New Testament
+ceb	Cebuano	Austronesian	Malayo-Polynesian	Phillipine	15,800,000	Latin	COMPLETE
+cha	Chamorro	Austronesian	Malayo-Polynesian	Chamorro	92,000	Latin	Psalm Gosp. Acts
+chr	Cherokee	Iroquoian	Southern Iroquoian		16,400	Cherokee	New Testament
+chq	Chinantec (Quiotepec)	Oto-Manguean	Chinantecan		8,000	Latin	New Testament
+cmn	Chinese	Sino-Tibetan	Sinitic	Chinese	840,000,000	Chinese	COMPLETE
+↳  	Chinese (tokenised) [Tokenisation by Armin Hoenen, using Stanford Word Segmenter 3.5.2]
+cop	Coptic	Afro-Asiatic	Egyptian		Extinct	Coptic	New Testament
+hrv	Croatian	Indo-European	Slavic	South	5,500,000	Latin	COMPLETE
+ces	Czech	Indo-European	Slavic	West	9,500,000	Latin	COMPLETE
+dan	Danish	Indo-European	Germanic	North	5,500,000	Latin	COMPLETE
+dik	Dinka	Nilo-Saharan	Eastern Sudanic	Nilotic	450,000	Latin	New Testament
+nld	Dutch	Indo-European	Germanic	West	15,700,000	Latin	COMPLETE
+eng	English	Indo-European	Germanic	West	328,000,000	Latin	COMPLETE
+↳  	English (WEB tranlation) [Added by Stephen Mayhew]
+epo	Esperanto	Constructed			1000	Latin	COMPLETE
+est	Estonian	Uralic	Finno-Ugric	Finno-Permic	1,000,000	Latin	COMPLETE
+ewe	Ewe	Niger-Congo	Atlantic-Congo	Volta-Congo	2,250,000	Latin	New Testament
+pes	Farsi (Persian)	Indo-European	Indo-Iranian	Iranian	22,000,000	Arabic	COMPLETE
+fin	Finnish	Uralic	Finno-Ugric	Finno-Permic	5,000,000	Latin	COMPLETE
+fra	French	Indo-European	Italic	Romance	58,000,000	Latin	COMPLETE
+gla	Gaelic (Scottish)	Indo-European	Celtic	Insular	67,000	Latin	Gospel of Mark
+gbi	Galela	West Papuan	North Halmahera	Galela-Loloda	79,000	Latin	New Testament
+deu	German	Indo-European	Germanic	West	90,300,000	Latin	COMPLETE
+ell	Greek	Indo-European	Greek	Attic	13,000,000	Greek	COMPLETE
+guj	Gujarati	Indo-European	Indo-Iranian	Indo-Aryan	45,500,000	Gujarati	New Testament
+hat	Haitian Creole	Creole			7,700,000	Latin	COMPLETE
+heb	Hebrew	Afro-Asiatic	Semitic	Central	5,300,000	Hebrew	COMPLETE
+hin	Hindi	Indo-European	Indo-Iranian	Indo-Aryan	180,000,000	Devanagari	COMPLETE
+hun	Hungarian	Uralic	Finno-Ugric	Ugric	12,500,000	Latin	COMPLETE
+isl	Icelandic	Indo-European	Germanic	North	230,000	Latin	COMPLETE
+ind	Indonesian	Austronesian	Malayo-Polynesian	Malayo-Sumbawan	23,100,000	Latin	COMPLETE
+ita	Italian	Indo-European	Italic	Romance	61,700,000	Latin	COMPLETE
+jai	Jakalteko	Mayan	Kanjobalan-Chujean	Kanjobalan	77,700	Latin	New Testament
+jpn	Japanese	Japonic			122,000,000	Kanjii	COMPLETE
+↳  	Japanese (tokenised) [Tokenisation by Armin Hoenen, using kyTea 0.4.7]
+quc	K'iche'	Mayan	Quichean-Mamean	Greater Quichean	1,900,000	Latin	New Testament
+kab	Kabyle	Afro-Asiatic	Berber	Northern	3,100,000	Latin	New Testament
+kan	Kannada	Dravidian	Southern	Tamil-Kannada	35,300,000	Kannada	COMPLETE
+kor	Korean	Altaic(?)			66,300,000	Hangul	COMPLETE
+lat	Latin	Indo-European	Italic	Latino-Faliscan	Extinct	Latin	COMPLETE
+lav	Latvian	Indo-European	Baltic	Eastern	1,500,000	Latin	New Testament
+lit	Lithuanian	Indo-European	Baltic	Eastern	3,100,000	Latin	COMPLETE
+dop	Lukpa	Niger-Congo	Atlantic-Congo	Volta-Congo	50,000	Latin	New Testament
+plt	Malagasy	Austronesian	Malayo-Polynesian	Greater Barito	7,520,000	Latin	COMPLETE
+mal	Malayalam	Dravidian	Southern	Tamil-Kannada	35,400,000	Malayalam	COMPLETE
+mam	Mam	Mayan	Quichean-Mamean	Greater Mamean	200,000	Latin	New Testament
+glv	Manx	Indo-European	Celtic	Insular	77,000	Latin	Esth. Jonah Gosp.
+mri	Maori	Austronesian	Malayo-Polynesian	Central-Eastern	60,000	Latin	COMPLETE
+mar	Marathi	Indo-European	Indo-Iranian	Indo-Aryan	68,000,000	Devanagari	COMPLETE
+mya	Myanmar (Burmese)	Sino-Tibetan	Tibeto-Burman	Lolo-Burmese	32,300,000	Myanmar	COMPLETE
+nhg	Nahuatl (Tetelcingo)	Uto-Aztecan	Southern Uto-Aztecan	Aztecan	3,500	Latin	New Testament
+nep	Nepali	Indo-European	Indo-Iranian	Indo-Aryan	11,100,000	Devanagari	COMPLETE
+nor	Norwegian	Indo-European	Germanic	North	4,600,000	Latin	COMPLETE
+ojb	Ojibwa	Algic	Algonquian	Central	20,000	Aboriginal Syllabics	New Testament
+pck	Paite (Chin)	Sino-Tibetan	Tibeto-Burman	Kuki-Chin-Naga	78,800	Latin	COMPLETE
+pol	Polish	Indo-European	Slavic	West	36,600,000	Latin	COMPLETE
+por	Portuguese	Indo-European	Italic	Romance	178,000,000	Latin	COMPLETE
+pot	Potawatomi	Algic	Algonquian	Central	1,300,000	Latin	Matthew Acts
+kek	Q'eqchi'	Mayan	Quichean-Mamean	Greater Quichean	400,000	Latin	COMPLETE
+quw	Quichua	Quechuan	Quechua II	B	20,000	Latin	New Testament
+rmn	Romani	Indo-European	Indo-Iranian	Indo-Aryan	710,000	Latin	New Testament
+ron	Romanian	Indo-European	Italic	Romance	23,400,000	Latin	COMPLETE
+rus	Russian	Indo-European	Slavic	East	143,000,000	Cyrillic	COMPLETE
+srp	Serbian	Indo-European	Slavic	South	7,000,000	Latin	COMPLETE
+shn	Shona	Niger-Congo	Atlantic-Congo	Volta-Congo	12,563,100	Latin	COMPLETE
+jiv	Shuar (Jivaro)	Jivaroan			46,700	Latin	New Testament
+slk	Slovak	Indo-European	Slavic	West	4,610,000	Latin	COMPLETE
+slv	Slovene	Indo-European	Slavic	South	1,730,000	Latin	COMPLETE
+som	Somali	Afro-Asiatic	Cushitic	East	8,340,000	Latin	COMPLETE
+spa	Spanish	Indo-European	Italic	Romance	328,000,000	Latin	COMPLETE
+swh	Swahili	Niger-Congo	Atlantic-Congo	Volta-Congo	788,000	Latin	New Testament
+swe	Swedish	Indo-European	Germanic	North	8,300,000	Latin	COMPLETE
+arc	Syriac	Afro-Asiatic	Semitic	Central	Extinct	Syriac	New Testament
+shi	Tachelhit	Afro-Asiatic	Berber	Northern	3,000,000	Latin	New Testament
+tgl	Tagalog	Austronesian	Malayo-Polynesian	Phillipine	23,900,000	Latin	COMPLETE
+ttq	Tamajaq (Tuareg)	Afro-Asiatic	Berber	Tamasheq	640,000	Latin	Portions
+tel	Telugu	Dravidian	South-Central	Telugu	69,600,000	Telugu	COMPLETE
+tha	Thai	Tai-Kadai	Kam-Tai	Be-Tai	20,300,000	Thai	COMPLETE
+↳  	Thai (tokenised) [Tokenisation by Armin Hoenen, using java.text.BreakIterator with locale TH]
+tur	Turkish	Altaic	Turkic	Southern	50,000,000	Latin	COMPLETE
+ukr	Ukranian	Indo-European	Slavic	East	37,000,000	Cyrillic	New Testament
+ppk	Uma	Austronesian	Malayo-Polynesian	Celebic	20,000	Latin	New Testament
+usp	Uspanteco	Mayan	Quichean-Mamean	Greater Quichean	3,000	Latin	New Testament
+vie	Vietnamese	Austro-Asiatic	Mon-Khmer	Viet-Muong	68,600,000	Latin	COMPLETE
+↳  	Vietnamese (tokenised) [Tokenisation by Armin Hoenen, using vnTokenizer 4.1.1]
+wal	Wolaytta	Afro-Asiatic	Omotic	North	1,230,000	Latin	New Testament
+wol	Wolof	Niger-Congo	Atlantic-Congo	Atlantic	4,000,000	Latin	New Testament
+xho	Xhosa	Niger-Congo	Atlantic-Congo	Volta-Congo	7,800,000	Latin	COMPLETE
+dje	Zarma	Nilo-Saharan	Songhai	Southern	2,350,000	Latin	COMPLETE
+zul	Zulu	Niger-Congo	Atlantic-Congo	Volta-Congo	9,980,000	Latin	New Testament
+
