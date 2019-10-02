@@ -33,3 +33,23 @@ For the sake of language processing CSV files are more informative and give outp
 
 Next step is to take the CSV and optimize data to lose minimum information and get the text of New Testament (NT) up and ready for analysis.
 ```
+
+```{<!-- language: lang-none -->}
+
+Final update:
+
+I took the data and tried to find out which verses are shared across the most languages.
+
+Then I took the epitran package and converted these verses into IPA annotation.
+
+Using multiprocessing, and the dreadful rowwise operation on pandas dataframe, it took 4 hours with 7 CPUs to to process about 121,000 lines.
+
+The final database contains 121,000 lines from 30 langauges.
+
+I may in future figure out a way of using this dataframe.
+
+The dataframe annotation_features.csv, includes details about the phonemes, and their annotation.
+
+
+
+```
