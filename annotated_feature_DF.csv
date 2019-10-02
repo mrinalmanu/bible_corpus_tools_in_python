@@ -1,0 +1,90 @@
+,name,phoneme,cons,son,syl,labial,round,coronal,ant,dist,dorsal,high,low,back,tense,pharyngeal,ATR,voice,SG,CG,cont,strident,lateral,del_rel,nasal
+0,low front unrounded vowel,a,0,1,1,1,0,0,0,0,1,0,1,0,0,1,0,1,0,0,1.0,0,0,0,0
+1,voiced bilabial plosive,b,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0,0,0,0
+2,aspirated voiced bilabial plosive,bʰ,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0.0,0,0,0,0
+3,voiceless palatal stop,c,1,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0.0,0,0,0,0
+4,voiced alveolar stop,d,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0,0,0.0,0,0,0,0
+5,voiced alveolar affricate,dz,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0.5,1,0,1,0
+6,voiced palato-alveolar affricate,dʒ,1,0,0,0,0,1,0,1,1,1,0,0,0,0,0,1,0,0,0.5,1,0,1,0
+7,palatalised voiced alveolar stop,dʲ,1,0,0,0,0,1,1,0,1,1,0,0,0,0,0,1,0,0,0.0,0,0,0,0
+8,high-mid front unrounded vowel,e,0,1,1,1,0,0,0,0,1,0,0,0,1,1,1,1,0,0,1.0,0,0,0,0
+9,voiceless labiodental fricative,f,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1.0,1,0,0,0
+10,voiced velar stop,g,1,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0,0.0,0,0,0,0
+11,voiceless glottal fricative,h,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1.0,0,0,0,0
+12,high front unrounded vowel,i,0,1,1,1,0,0,0,0,1,1,0,0,1,1,1,1,0,0,1.0,0,0,0,0
+13,palatal approximant,j,0,1,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,0,1.0,0,0,0,0
+14,voiceless velar stop,k,1,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0.0,0,0,0,0
+15,voiceless velar affricate,kx,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.5,1,0,1,0
+16,voiceless aspirated velar stop,kʰ,1,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,0,0.0,0,0,0,0
+17,palatalised voiceless velar stop,kʲ,1,0,0,0,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0.0,0,0,0,0
+18,voiceless labialised velar stop,kʷ,1,0,0,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0.0,0,0,0,0
+19,alveolar lateral approximant,l,1,1,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0,0,1.0,0,1,0,0
+20,palatalised alveolar lateral approximant,lʲ,1,1,0,0,0,1,1,0,1,1,0,0,0,0,0,1,0,0,1.0,0,1,0,0
+21,bilabial nasal,m,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0,0,0,1
+22,alveolar nasal,n,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0.0,0,0,0,1
+23,high-mid back rounded vowel,o,0,1,1,1,1,0,0,0,1,0,0,1,1,1,1,1,0,0,1.0,0,0,0,0
+24,voiceless bilabial plosive,p,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0
+25,voiceless labiodental affricate,pf,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.5,1,0,1,0
+26,voiceless uvular stop,q,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0.0,0,0,0,0
+27,alveolar trill,r,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1.0,0,0,0,0
+28,palatalised alveolar trill,rʲ,1,1,0,0,0,1,1,0,1,1,0,0,0,0,0,1,0,0,1.0,0,0,0,0
+29,voiceless alveolar sibilant,s,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1.0,1,0,0,0
+30,voiceless alveolar stop,t,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0.0,0,0,0,0
+31,voiceless alveolar affricate,ts,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0.5,1,0,1,0
+32,voiceless palato-alveolar affricate,tʃ,1,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0.5,1,0,1,0
+33,aspirated voiceless alveolar stop,tʰ,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1,0,0.0,0,0,0,0
+34,palatalised voiceless alveolar stop,tʲ,1,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0.0,0,0,0,0
+35,ejective voiceless alveolar stop,tʼ,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0.0,0,0,0,0
+36,high back rounded vowel,u,0,1,1,1,1,0,0,0,1,1,0,1,1,1,1,1,0,0,1.0,0,0,0,0
+37,voiced labiodental fricative,v,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1.0,1,0,0,0
+38,labiovelar approximant,w,0,1,0,1,1,0,0,0,1,1,0,1,0,0,0,1,0,0,1.0,0,0,0,0
+39,voiceless velar fricative,x,1,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,1.0,0,0,0,0
+40,high front rounded vowel,y,0,1,1,1,1,0,0,0,1,1,0,0,1,1,1,1,0,0,1.0,0,0,0,0
+41,voiced alveolar sibilant,z,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0,0,1.0,1,0,0,0
+42,near-low front unrounded vowel,æ,0,1,1,1,0,0,0,0,1,0,1,0,1,1,0,1,0,0,1.0,0,0,0,0
+43,voiceless palatal fricative,ç,1,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+44,voiced dental fricative,ð,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0,0,1.0,0,0,0,0
+45,high-mid front rounded vowel,ø,0,1,1,1,1,0,0,0,1,0,0,0,1,1,1,1,0,0,1.0,0,0,0,0
+46,voiceless pharyngeal fricative,ħ,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1.0,0,0,0,0
+47,velar nasal,ŋ,1,1,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0,0.0,0,0,0,1
+48,low-mid front rounded vowel,œ,0,1,1,1,1,0,0,0,1,0,0,0,0,1,0,1,0,0,1.0,0,0,0,0
+49,low-mid back rounded vowel,ɔ,0,1,1,1,1,0,0,0,1,0,0,1,0,1,0,1,0,0,1.0,0,0,0,0
+50,voiceless alveolo-palatal sibilant,ɕ,1,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+51,mid central unrounded vowel,ə,0,1,1,1,0,0,0,0,1,0,0,0,0,1,0,1,0,0,1.0,0,0,0,0
+52,low-mid front unrounded vowel,ɛ,0,1,1,1,0,0,0,0,1,0,0,0,0,1,0,1,0,0,1.0,0,0,0,0
+53,voiced palatal stop,ɟ,1,0,0,0,0,1,0,1,1,1,0,0,0,0,0,1,0,0,0.0,0,0,0,0
+54,voiced uvular stop,ɢ,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0.0,0,0,0,0
+55,voiced velar fricative,ɣ,1,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0,1.0,0,0,0,0
+56,labial-palatal approximant,ɥ,0,1,0,1,1,0,0,0,1,1,0,0,0,0,0,1,0,0,1.0,0,0,0,0
+57,voiced glottal fricative,ɦ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1.0,0,0,0,0
+58,high central unrounded vowel,ɨ,0,1,1,1,0,0,0,0,1,1,0,1,0,1,0,1,0,0,1.0,0,0,0,0
+59,near-high near-front unrounded vowel,ɪ,0,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,1.0,0,0,0,0
+60,voiceless alveolar lateral fricative,ɬ,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1,0,1.0,0,1,0,0
+61,voiced alveolar lateral fricative,ɮ,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0,0,1.0,0,1,0,0
+62,high back unrounded vowel,ɯ,0,1,1,1,0,0,0,0,1,1,0,1,1,1,0,1,0,0,1.0,0,0,0,0
+63,velar approximant,ɰ,0,1,0,1,0,0,0,0,1,1,0,1,0,0,0,1,0,0,1.0,0,0,0,0
+64,palatal nasal,ɲ,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0.0,0,0,0,1
+65,retroflex nasal,ɳ,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0.0,0,0,0,1
+66,uvular nasal,ɴ,1,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0.0,0,0,0,1
+67,voiceless bilabial fricative,ɸ,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+68,alveolar flap,ɾ,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0.0,0,0,0,0
+69,palatalised alveolar flap,ɾʲ,1,0,0,0,0,1,1,0,1,1,0,0,0,0,0,1,0,0,0.0,0,0,0,0
+70,uvular trill,ʀ,1,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,1.0,0,0,0,0
+71,voiced uvular fricative,ʁ,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,1.0,0,0,0,0
+72,voiceless palato-alveolar sibilant,ʃ,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1.0,1,0,0,0
+73,palatalised voiceless palato-alveolar sibilant,ʃʲ,1,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,1.0,1,0,0,0
+74,near-high near-back rounded vowel,ʊ,0,1,1,1,1,0,0,0,1,1,0,1,0,1,0,1,0,0,1.0,0,0,0,0
+75,labiodental approximant,ʋ,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1.0,1,0,0,0
+76,palatalised labiodental approximant,ʋʲ,1,1,0,1,0,1,0,0,1,1,0,0,0,0,0,1,0,0,1.0,1,0,0,0
+77,low-mid back unrounded vowel,ʌ,0,1,1,1,0,0,0,0,1,0,0,1,0,1,0,1,0,0,1.0,0,0,0,0
+78,palatal lateral approximant,ʎ,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,1.0,0,1,0,0
+79,near-high near-front rounded vowel,ʏ,0,1,1,1,1,0,0,0,1,1,0,0,0,1,0,1,0,0,1.0,0,0,0,0
+80,voiced alveolo-palatal sibilant,ʑ,1,0,0,0,0,1,0,1,1,1,0,0,0,0,0,1,0,0,1.0,0,0,0,0
+81,voiced palato-alveolar sibilant,ʒ,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,1.0,0,0,0,0
+82,glottal stop,ʔ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,0,0,0,0
+83,voiced pharyngeal fricative,ʕ,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1.0,0,0,0,0
+84,voiced palatal fricative,ʝ,1,0,0,0,0,1,0,1,1,1,0,0,0,0,0,1,0,0,1.0,0,0,0,0
+85,voiced bilabial fricative,β,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1.0,0,0,0,0
+86,voiceless dental fricative,θ,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1.0,0,0,0,0
+87,voiceless uvular fricative,χ,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1.0,0,0,0,0
+88,high-mid front unrounded nasal vowel,ẽ,0,1,1,1,0,0,0,0,1,0,0,0,1,1,1,1,0,0,1.0,0,0,0,1
