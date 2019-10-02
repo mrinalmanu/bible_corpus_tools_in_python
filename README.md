@@ -15,6 +15,8 @@
 
 Author: **Mrinal Vashisth; mrinalmanu10@gmail.com**
 
+It's my personal fun project :))
+
 This is a set of functions for processing text for language processing, from XML files in Open Bible Data mentioned in the paper **A massively parallel corpus: the Bible in 100 languages**, Christos Christodouloupoulos and Mark Steedman.
 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4551210/)
 
@@ -50,6 +52,7 @@ I may in future figure out a way of using this dataframe.
 
 The dataframe annotation_features.csv, includes details about the phonemes, and their annotation.
 
+Final dataset link here: 
 
-
+https://www.kaggle.com/mrinalmanu/bible-verses-30-languages-ipa-annotated
 ```
