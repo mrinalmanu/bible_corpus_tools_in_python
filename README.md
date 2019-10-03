@@ -56,3 +56,16 @@ Final dataset link here:
 
 https://www.kaggle.com/mrinalmanu/bible-verses-30-languages-ipa-annotated
 ```
+
+
+```{<!-- language: lang-none -->}
+
+I wanted to do some kind of analysis. For example, group languages into families according to the phonetic information in well translated phrases. Given that each translation is exact, something about the phonemes along should be reflected. Maybe I'll continue this in future. In between, this intermediate result can be used with appropriate credit to the original authors:
+
+**A massively parallel corpus: the Bible in 100 languages**, Christos Christodouloupoulos and Mark Steedman.
+
+And me, of course, if you are using this version. :))
+
+I used epitran for these tools. Citation required. 
+
+```
